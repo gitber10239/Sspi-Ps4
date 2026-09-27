@@ -1,0 +1,6 @@
+{
+  "name": "My Custom PS4 Library",
+  "permissions": ["download"],
+  "type": "direct",
+  "url": "https://githubusercontent.com"
+}
